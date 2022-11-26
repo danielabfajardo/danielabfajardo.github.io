@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d263fa7.css",
+    "main.js": "/static/js/main.3f1cd52e.js",
+    "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
+    "static/media/project-img1.png": "/static/media/project-img1.8f2f478a9ffaa5746d62.png",
+    "static/media/project-img4.png": "/static/media/project-img4.ffd67a9c7502625103b4.png",
+    "static/media/project-img6.png": "/static/media/project-img6.7dd261a4add48aa502c4.png",
+    "static/media/project-img5.png": "/static/media/project-img5.9dfc43d520adac4d50ad.png",
+    "static/media/project-img2.png": "/static/media/project-img2.123033ddc84649df9904.png",
+    "static/media/project-img3.png": "/static/media/project-img3.389e5c8485afd7d33f3a.png",
+    "static/media/yo3.png": "/static/media/yo3.0632e9055b06804a4982.png",
+    "static/media/meter1.png": "/static/media/meter1.4c70b008aeda9818e9b7.png",
+    "static/media/meter3.png": "/static/media/meter3.5799cef0c8ae8c072452.png",
+    "static/media/meter2.png": "/static/media/meter2.daee452582fdb9d86ad3.png",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/resume.pdf": "/static/media/resume.4fc5a3803978cd78a0a7.pdf",
+    "static/media/banner-bckg.png": "/static/media/banner-bckg.10fb022415ed1d1db1a0.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/nav-icon2.svg": "/static/media/nav-icon2.66aba2cc1de97ed56fbaa3af170661c8.svg",
+    "index.html": "/index.html",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.9d263fa7.css.map": "/static/css/main.9d263fa7.css.map",
+    "main.3f1cd52e.js.map": "/static/js/main.3f1cd52e.js.map",
+    "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d263fa7.css",
+    "static/js/main.3f1cd52e.js"
+  ]
+}

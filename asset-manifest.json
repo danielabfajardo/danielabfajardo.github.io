@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3266b202.css",
-    "main.js": "/static/js/main.873007be.js",
+    "main.css": "/static/css/main.87e1cc45.css",
+    "main.js": "/static/js/main.ff6605cb.js",
     "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
     "static/media/project-img7.png": "/static/media/project-img7.0fd6adf9318acd019d46.png",
     "static/media/project-img1.png": "/static/media/project-img1.8f2f478a9ffaa5746d62.png",
@@ -22,15 +22,14 @@
     "static/media/wave.png": "/static/media/wave.2f2ecd84a58b02fc4984.png",
     "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/light-logo.png": "/static/media/light-logo.0784bf1f7cebb31f3e04.png",
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/index.html",
-    "main.3266b202.css.map": "/static/css/main.3266b202.css.map",
-    "main.873007be.js.map": "/static/js/main.873007be.js.map",
+    "main.87e1cc45.css.map": "/static/css/main.87e1cc45.css.map",
+    "main.ff6605cb.js.map": "/static/js/main.ff6605cb.js.map",
     "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3266b202.css",
-    "static/js/main.873007be.js"
+    "static/css/main.87e1cc45.css",
+    "static/js/main.ff6605cb.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3236a327.css",
-    "main.js": "/static/js/main.b0e8566b.js",
+    "main.js": "/static/js/main.c6664fbc.js",
     "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
     "static/media/project-img7.png": "/static/media/project-img7.0fd6adf9318acd019d46.png",
     "static/media/project-img1.png": "/static/media/project-img1.8f2f478a9ffaa5746d62.png",
@@ -13,7 +13,7 @@
     "static/media/project-img3.png": "/static/media/project-img3.389e5c8485afd7d33f3a.png",
     "static/media/portrait1.jpeg": "/static/media/portrait1.579964d489d74148f183.jpeg",
     "static/media/avatar.png": "/static/media/avatar.b6ce3c6ca7141d6839e7.png",
-    "static/media/resume.pdf": "/static/media/resume.046714c30386848702cc.pdf",
+    "static/media/resume.pdf": "/static/media/resume.f61040e446043a17cabe.pdf",
     "static/media/CentraNo2-Light.ttf": "/static/media/CentraNo2-Light.9bae163b57d4b1de7737.ttf",
     "static/media/CentraNo2-Thin.ttf": "/static/media/CentraNo2-Thin.7d398cc82d583935412d.ttf",
     "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
@@ -25,11 +25,11 @@
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/index.html",
     "main.3236a327.css.map": "/static/css/main.3236a327.css.map",
-    "main.b0e8566b.js.map": "/static/js/main.b0e8566b.js.map",
+    "main.c6664fbc.js.map": "/static/js/main.c6664fbc.js.map",
     "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3236a327.css",
-    "static/js/main.b0e8566b.js"
+    "static/js/main.c6664fbc.js"
   ]
 }

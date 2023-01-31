@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bbfdd453.css",
-    "main.js": "/static/js/main.98ed9765.js",
+    "main.js": "/static/js/main.671d7b60.js",
     "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
     "static/media/marilyn-ford.mp3": "/static/media/marilyn-ford.521651af1723ca7dcdac.mp3",
     "static/media/project-img7.png": "/static/media/project-img7.0fd6adf9318acd019d46.png",
@@ -23,11 +23,11 @@
     "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "index.html": "/index.html",
     "main.bbfdd453.css.map": "/static/css/main.bbfdd453.css.map",
-    "main.98ed9765.js.map": "/static/js/main.98ed9765.js.map",
+    "main.671d7b60.js.map": "/static/js/main.671d7b60.js.map",
     "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bbfdd453.css",
-    "static/js/main.98ed9765.js"
+    "static/js/main.671d7b60.js"
   ]
 }

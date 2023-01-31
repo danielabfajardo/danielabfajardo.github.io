@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.483a5dd6.css",
-    "main.js": "/static/js/main.45df1bf8.js",
+    "main.css": "/static/css/main.7b37e270.css",
+    "main.js": "/static/js/main.10de4b11.js",
     "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
     "static/media/marilyn-ford.mp3": "/static/media/marilyn-ford.521651af1723ca7dcdac.mp3",
     "static/media/project-img7.png": "/static/media/project-img7.0fd6adf9318acd019d46.png",
@@ -22,12 +22,12 @@
     "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "index.html": "/index.html",
-    "main.483a5dd6.css.map": "/static/css/main.483a5dd6.css.map",
-    "main.45df1bf8.js.map": "/static/js/main.45df1bf8.js.map",
+    "main.7b37e270.css.map": "/static/css/main.7b37e270.css.map",
+    "main.10de4b11.js.map": "/static/js/main.10de4b11.js.map",
     "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.483a5dd6.css",
-    "static/js/main.45df1bf8.js"
+    "static/css/main.7b37e270.css",
+    "static/js/main.10de4b11.js"
   ]
 }

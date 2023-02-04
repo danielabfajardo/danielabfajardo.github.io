@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.b40c1684.css",
-    "main.js": "/static/js/main.8b0597cc.js",
+    "main.css": "/static/css/main.6134d610.css",
+    "main.js": "/static/js/main.f4c6e50d.js",
+    "static/media/wallpaper.svg": "/static/media/wallpaper.dbb5f2b2bb7cc5ae2abf.svg",
     "static/media/marilyn-ford.mp3": "/static/media/marilyn-ford.521651af1723ca7dcdac.mp3",
     "static/media/project-img7.webp": "/static/media/project-img7.0fd6adf9318acd019d46.webp",
     "static/media/project-img1.webp": "/static/media/project-img1.8f2f478a9ffaa5746d62.webp",
     "static/media/project-img4.webp": "/static/media/project-img4.ffd67a9c7502625103b4.webp",
-    "static/media/dark-wallp.webp": "/static/media/dark-wallp.ecba25031733dcf34c47.webp",
-    "static/media/light-wallp.webp": "/static/media/light-wallp.f8ec16aa49814bc27981.webp",
     "static/media/project-img2.webp": "/static/media/project-img2.123033ddc84649df9904.webp",
     "static/media/project-img9.webp": "/static/media/project-img9.0a3f80b4337440e2d824.webp",
     "static/media/project-img3.webp": "/static/media/project-img3.389e5c8485afd7d33f3a.webp",
@@ -18,11 +17,11 @@
     "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "index.html": "/index.html",
-    "main.b40c1684.css.map": "/static/css/main.b40c1684.css.map",
-    "main.8b0597cc.js.map": "/static/js/main.8b0597cc.js.map"
+    "main.6134d610.css.map": "/static/css/main.6134d610.css.map",
+    "main.f4c6e50d.js.map": "/static/js/main.f4c6e50d.js.map"
   },
   "entrypoints": [
-    "static/css/main.b40c1684.css",
-    "static/js/main.8b0597cc.js"
+    "static/css/main.6134d610.css",
+    "static/js/main.f4c6e50d.js"
   ]
 }

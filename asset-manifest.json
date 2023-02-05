@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.d9da60f7.css",
+    "main.css": "/static/css/main.eebd2d02.css",
     "main.js": "/static/js/main.db03311c.js",
     "static/media/marilyn-ford.mp3": "/static/media/marilyn-ford.521651af1723ca7dcdac.mp3",
     "static/media/portrait.webp": "/static/media/portrait.8bb7e6e9fe449de5d324.webp",
-    "static/media/wallpaper.png": "/static/media/wallpaper.eb9ce8d4722ff36bb94e.png",
+    "static/media/wallpaper.webp": "/static/media/wallpaper.eb9ce8d4722ff36bb94e.webp",
     "static/media/project-img7.webp": "/static/media/project-img7.a173750e276596b32af0.webp",
     "static/media/project-img4.webp": "/static/media/project-img4.e874e15cc32ac24b400e.webp",
     "static/media/project-img1.webp": "/static/media/project-img1.a6daeff4ad9a84774472.webp",
@@ -16,11 +16,11 @@
     "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "index.html": "/index.html",
-    "main.d9da60f7.css.map": "/static/css/main.d9da60f7.css.map",
+    "main.eebd2d02.css.map": "/static/css/main.eebd2d02.css.map",
     "main.db03311c.js.map": "/static/js/main.db03311c.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9da60f7.css",
+    "static/css/main.eebd2d02.css",
     "static/js/main.db03311c.js"
   ]
 }

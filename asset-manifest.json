@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.6210a4f8.css",
-    "main.js": "/static/js/main.003210d2.js",
+    "main.css": "/static/css/main.72a62848.css",
+    "main.js": "/static/js/main.db03311c.js",
     "static/media/wallpaper.svg": "/static/media/wallpaper.dbb5f2b2bb7cc5ae2abf.svg",
     "static/media/marilyn-ford.mp3": "/static/media/marilyn-ford.521651af1723ca7dcdac.mp3",
-    "static/media/project-img7.webp": "/static/media/project-img7.0fd6adf9318acd019d46.webp",
-    "static/media/project-img1.webp": "/static/media/project-img1.8f2f478a9ffaa5746d62.webp",
-    "static/media/project-img4.webp": "/static/media/project-img4.ffd67a9c7502625103b4.webp",
-    "static/media/project-img2.webp": "/static/media/project-img2.123033ddc84649df9904.webp",
-    "static/media/project-img9.webp": "/static/media/project-img9.0a3f80b4337440e2d824.webp",
-    "static/media/project-img3.webp": "/static/media/project-img3.389e5c8485afd7d33f3a.webp",
-    "static/media/portrait.webp": "/static/media/portrait.579964d489d74148f183.webp",
+    "static/media/portrait.webp": "/static/media/portrait.8bb7e6e9fe449de5d324.webp",
+    "static/media/project-img7.webp": "/static/media/project-img7.a173750e276596b32af0.webp",
+    "static/media/project-img4.webp": "/static/media/project-img4.e874e15cc32ac24b400e.webp",
+    "static/media/project-img1.webp": "/static/media/project-img1.a6daeff4ad9a84774472.webp",
+    "static/media/project-img9.webp": "/static/media/project-img9.cff18664f585ce17fa5f.webp",
+    "static/media/project-img3.webp": "/static/media/project-img3.fbbfa044dc158fbec289.webp",
+    "static/media/project-img2.webp": "/static/media/project-img2.18ccf87e57a216600914.webp",
     "static/media/resume.pdf": "/static/media/resume.74262bd633efeaf3f550.pdf",
-    "static/media/CentraNo2-Light.ttf": "/static/media/CentraNo2-Light.9bae163b57d4b1de7737.ttf",
     "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "index.html": "/index.html",
-    "main.6210a4f8.css.map": "/static/css/main.6210a4f8.css.map",
-    "main.003210d2.js.map": "/static/js/main.003210d2.js.map"
+    "main.72a62848.css.map": "/static/css/main.72a62848.css.map",
+    "main.db03311c.js.map": "/static/js/main.db03311c.js.map"
   },
   "entrypoints": [
-    "static/css/main.6210a4f8.css",
-    "static/js/main.003210d2.js"
+    "static/css/main.72a62848.css",
+    "static/js/main.db03311c.js"
   ]
 }

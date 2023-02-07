@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a11f5915.css",
-    "main.js": "/static/js/main.36b5fd6b.js",
+    "main.css": "/static/css/main.9bb6c725.css",
+    "main.js": "/static/js/main.c40659e3.js",
     "static/media/marilyn-ford.mp3": "/static/media/marilyn-ford.521651af1723ca7dcdac.mp3",
     "static/media/portrait.webp": "/static/media/portrait.6be58304153b168e5a08.webp",
     "static/media/wallpaper.webp": "/static/media/wallpaper.46da85b5acce9740fc96.webp",
@@ -16,11 +16,11 @@
     "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "index.html": "/index.html",
-    "main.a11f5915.css.map": "/static/css/main.a11f5915.css.map",
-    "main.36b5fd6b.js.map": "/static/js/main.36b5fd6b.js.map"
+    "main.9bb6c725.css.map": "/static/css/main.9bb6c725.css.map",
+    "main.c40659e3.js.map": "/static/js/main.c40659e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.a11f5915.css",
-    "static/js/main.36b5fd6b.js"
+    "static/css/main.9bb6c725.css",
+    "static/js/main.c40659e3.js"
   ]
 }
